@@ -1,0 +1,14 @@
+body {
+    margin: 30px 30%;
+    line-height: 1.8;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+p {
+    margin-top: 60px;
+    font-size: 18px;
+}
